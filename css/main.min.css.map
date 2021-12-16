@@ -5,5 +5,5 @@
         "../scss/all-blocks/main.scss"
     ],
     "names": [],
-    "file": "main.css"
+    "file": "main.min.css"
 }

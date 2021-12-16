@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap.scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimardon28/bootstrap.scss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimardon28/bootstrap.scss/issues"
+  },
+  "homepage": "https://github.com/alimardon28/bootstrap.scss#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
